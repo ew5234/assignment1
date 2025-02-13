@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Eric Wong
+# FILENAME: decision_tree.py
+# SPECIFICATION: A program that creates a decision tree based on contact_lens.csv.
 # FOR: CS 4210- Assignment #1
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
